@@ -20,7 +20,7 @@ ______________________________________________________________________________
  2. Get your LAMP setup.
  3. In main folder enter command composer dump-autoload (This will load all your files that will be used)
  4. cd public/
- 5. Enter commmand php -S localhost:<port>
+ 5. Enter command php -S localhost:<port>
  6. Enjoy...
  
  
